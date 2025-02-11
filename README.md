@@ -7,4 +7,4 @@ Don't use the same name for decorator functions and python library functions. Th
 
 ### Picture of my dog
 This is Charlie. We got him when I was about 3 or 4.
-![Picture of Charlie]("..\Downloads\Charlie.jpeg")
+![Picture of Charlie](Charlie.jpeg)
